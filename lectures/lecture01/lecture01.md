@@ -112,7 +112,7 @@ Maggie Russell
 <img src="./img/instructors/matthew-chan.jpg" style="width:150px;">
 </td>
 <td>
-<img src="./img/instructors/dominik-otto.jpeg" style="width:152px;">
+<img src="./img/instructors/dominik-otto.jpg" style="width:152px;">
 </td>
 <td>
 <img src="./img/instructors/arvind-rasi-subramaniam.jpg" style="width:150px;">
