@@ -123,7 +123,7 @@ Maggie Russell
 Matthew Chan
 </td>
 <td>
-Manu Setty
+Dominik Otto (Setty Lab)
 </td>
 <td>
 Rasi Subramaniam

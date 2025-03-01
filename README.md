@@ -23,27 +23,27 @@ TA Office Hours and Location:
 - ????: 3:00PM-4:00PM Wed, Thomas Building Double Helix Cafe and Zoom
 
 
-| Lecture | Date   | Instructor       | Topic                                                                           |
-| ------- | ------ | ---------------- | ------------------------------------------------------------------------------- |
-| 1       | Sep 25 | Rasi Subramaniam | [Introduction to Computational Biology and course](lectures/lecture01/)         |
-| 2       | Sep 30 | TA-led           | [Software installation and troubleshooting](software/README.md)                 |
-| 3       | Oct 2  | Rasi Subramaniam | [VScode, Git, and project organization](lectures/lecture03/)                    |
-| 4       | Oct 7  | Melody Campbell  | [Introduction to the command line](lectures/lecture04/)                         |
-| 5       | Oct 9  | Melody Campbell  | [Intro to the command line (continued)](lectures/lecture05/)                    |
-| 6       | Oct 14 | Phil Bradley     | [Introduction to Python](lectures/lecture06/)                                   |
-| 7       | Oct 16 | Phil Bradley     | [Intro to Python (continued)](lectures/lecture07/)                              |
-| 8       | Oct 21 | Maggie Russell   | [Data structures and biological analyses using Python](lectures/lecture08/)     |
-| 9       | Oct 23 | Maggie Russell   | [Data structures/biological analyses in Python (continued)](lectures/lecture09) |
-| 10      | Oct 28 | Phil Bradley     | [Modeling and machine learning in Python](lectures/lecture10)                   |
-| 11      | Oct 30 | Phil Bradley     | [Modeling/machine learning in Python (continued)](lectures/lecture11)           |
-| 12      | Nov 4  | Matthew Chan     | [Data analysis using R/tidyverse](lectures/lecture12/)                          |
-| 13      | Nov 6  | Matthew Chan     | [Data analysis using R/tidyverse (continued)](lectures/lecture13/)              |
-| 14      | Nov 13 | Rasi Subramaniam | [Biological sequences and annotations in Bioconductor](lectures/lecture14/)     |
-| 15      | Nov 18 | Rasi Subramaniam | [Introduction to sequencing data](lectures/lecture15/)                          |
-| 16      | Nov 20 | Rasi Subramaniam | [Genomic data in R](lectures/lecture16/)                                        |
-| 17      | Nov 25 | Maggie Russell   | [Immune repertoire sequencing and analysis](lectures/lecture17/)                |
-| 18      | Dec 2  | Manu Setty       | [Single-cell RNA-seq analysis](lectures/lecture18/)                             |
-| 19      | Dec 4  | Manu Setty       | [Single-cell RNA-seq analysis (continued)](lectures/lecture19/)                 |
+| Lecture | Date   | Instructor               | Topic                                                                           |
+| ------- | ------ | ------------------------ | ------------------------------------------------------------------------------- |
+| 1       | Sep 25 | Rasi Subramaniam         | [Introduction to Computational Biology and course](lectures/lecture01/)         |
+| 2       | Sep 30 | TA-led                   | [Software installation and troubleshooting](software/README.md)                 |
+| 3       | Oct 2  | Rasi Subramaniam         | [VScode, Git, and project organization](lectures/lecture03/)                    |
+| 4       | Oct 7  | Melody Campbell          | [Introduction to the command line](lectures/lecture04/)                         |
+| 5       | Oct 9  | Melody Campbell          | [Intro to the command line (continued)](lectures/lecture05/)                    |
+| 6       | Oct 14 | Phil Bradley             | [Introduction to Python](lectures/lecture06/)                                   |
+| 7       | Oct 16 | Phil Bradley             | [Intro to Python (continued)](lectures/lecture07/)                              |
+| 8       | Oct 21 | Maggie Russell           | [Data structures and biological analyses using Python](lectures/lecture08/)     |
+| 9       | Oct 23 | Maggie Russell           | [Data structures/biological analyses in Python (continued)](lectures/lecture09) |
+| 10      | Oct 28 | Phil Bradley             | [Modeling and machine learning in Python](lectures/lecture10)                   |
+| 11      | Oct 30 | Phil Bradley             | [Modeling/machine learning in Python (continued)](lectures/lecture11)           |
+| 12      | Nov 4  | Matthew Chan             | [Data analysis using R/tidyverse](lectures/lecture12/)                          |
+| 13      | Nov 6  | Matthew Chan             | [Data analysis using R/tidyverse (continued)](lectures/lecture13/)              |
+| 14      | Nov 13 | Rasi Subramaniam         | [Biological sequences and annotations in Bioconductor](lectures/lecture14/)     |
+| 15      | Nov 18 | Rasi Subramaniam         | [Introduction to sequencing data](lectures/lecture15/)                          |
+| 16      | Nov 20 | Rasi Subramaniam         | [Genomic data in R](lectures/lecture16/)                                        |
+| 17      | Nov 25 | Maggie Russell           | [Immune repertoire sequencing and analysis](lectures/lecture17/)                |
+| 18      | Dec 2  | Dominik Otto (Setty Lab) | [Single-cell RNA-seq analysis](lectures/lecture18/)                             |
+| 19      | Dec 4  | Dominik Otto (Setty Lab) | [Single-cell RNA-seq analysis (continued)](lectures/lecture19/)                 |
 
 Materials for each lecture will be available in this repository prior to the class session;
 the link for each topic will take you to the folder containing materials for that class.
@@ -110,7 +110,7 @@ For general inquiries about this course or add codes, please contact GraduateEdu
 - [Melody Campbell](https://www.fredhutch.org/en/faculty-lab-directory/campbell-melody.html)
 - [Matthew Chan](https://www.linkedin.com/in/matthew-c-chan-0/)
 - [Maggie Russell](https://www.linkedin.com/in/magdalena-russell/)
-- [Manu Setty](https://research.fredhutch.org/setty/en.html)
+- [Dominik Otto (Setty Lab)](https://research.fredhutch.org/setty/en.html)
 - [Arvind Rasi Subramaniam](http://rasilab.fredhutch.org)
 
 ## Teaching Assistants
