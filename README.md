@@ -19,7 +19,7 @@ Class Location: B1-072/074 (Weintraub Building, Fred Hutch SLU campus)
 
 TA Office Hours and Location: 
 
-- ????: 3:00PM-4:00PM Mon, Arnold Building  M1-A403 and Zoom
+- Carlos: 2:00PM-3:00PM Mon, Thomas Building Double Helix Cafe and Zoom
 - ????: 3:00PM-4:00PM Wed, Thomas Building Double Helix Cafe and Zoom
 
 
@@ -115,5 +115,5 @@ For general inquiries about this course or add codes, please contact GraduateEdu
 
 ## Teaching Assistants
 
+- Carlos Avendano
 - ????
-- ???? 
