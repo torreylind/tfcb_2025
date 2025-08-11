@@ -115,5 +115,5 @@ For general inquiries about this course or add codes, please contact GraduateEdu
 
 ## Teaching Assistants
 
-- Carlos Avendano
-- Samantha Sgrizzi
+- [Carlos Avendano](https://depts.washington.edu/mcb/)
+- [Samantha Sgrizzi](https://www.linkedin.com/in/samantha-sgrizzi/)
