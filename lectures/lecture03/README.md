@@ -19,7 +19,7 @@ customTheme: custom
 
 ## Reminders
 
-The homework assignment is available today (October 3) and is due October 10 at 3:30pm.
+The homework assignment is available today (October 2) and is due October 9 at 3:30pm.
 
 ---
 
