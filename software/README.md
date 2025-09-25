@@ -40,7 +40,7 @@ Once you have installed the requisite software, then you should be able to perfo
 
 1) Open VS Code
 
-1) Clone tfcb_2024 repo to your local computer  
+1) Clone tfcb_2025 repo to your local computer  
     - Navigate to the [tfcb_2025](https://github.com/FredHutch/tfcb_2025) and find a green button labeled **Code** near the top right corner. Once you click the **Code**  button, a dropdown will appear. Copy the URL under "HTTPS" tab option.  
     - If using VSCode interface: Click **Clone Git Repository...**  and paste the URL   
     - If using terminal: Navigate to the directory where you want to clone the repository using the terminal. Use the command: `git clone <URL>`
