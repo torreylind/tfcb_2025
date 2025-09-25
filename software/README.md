@@ -45,7 +45,7 @@ Once you have installed the requisite software, then you should be able to perfo
     - If using VSCode interface: Click **Clone Git Repository...**  and paste the URL   
     - If using terminal: Navigate to the directory where you want to clone the repository using the terminal. Use the command: `git clone <URL>`
 
-1) Open the tfcb_2025 local folder in VS Code. A notification of "Folder containing a Dev Container configuration file" will appear. Click "Reopen in Container". This will install the container. *Note: this step might take a long time depending on your computer and internet speed, so please try to complete this step before Sep 30.*
+1) Open the tfcb_2025 local folder in VS Code. A notification of "Folder containing a Dev Container configuration file" will appear. Click "Reopen in Container". If you don't get this notification, type `Ctrl  + Shft + P`, then type `Dev Containers: Open folder in container...` and then press `Enter`. This will install the container and re-open the folder within the container. *Note: this step might take a long time depending on your computer and internet speed, so please try to complete this step before Sep 30.* 
 
 1) After installing the container, then you should be able to run the test code. Make sure to pick the right kernel for R or python (see below).
 
