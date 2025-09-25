@@ -1,5 +1,7 @@
 # Lecture 1: Introduction to Course
 
+Today is Sep 25
+
 ## Learning objectives
 
 - Locate information relevant to the course (lecture materials, assessment, communication streams)
