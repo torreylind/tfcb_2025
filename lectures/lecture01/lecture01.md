@@ -26,7 +26,7 @@ customTheme: custom
 
 ## Communication
 
-Slack Workspace: TFCB2024 (see Canvas for invite link)
+Slack Workspace: TFCB2025 (see Canvas for invite link)
 
 - <span style="color:magenta;">#lectures-homeworks</span>: questions about course content and help for homework
 - see pinned posts for zoom links and reminders
@@ -49,31 +49,31 @@ Slack Workspace: TFCB2024 (see Canvas for invite link)
 <table>
 <tr>
 <td style="padding-right:200px;">
-<img src="./img/instructors/justin-hui.jpg" style="width:150px;"/> 
+<img src="./img/instructors/carlos-avendano.jpg" style="width:150px;"/> 
 </td>
 <td>
-<img src="./img/instructors/lucas-kampmann.jpg"  style="width:150px;"/> 
+<img src="./img/instructors/sam-sgrizzi.jpg"  style="width:150px;"/> 
 </td>
 </tr>
 <tr>
 <td style="padding-right:200px;">
-Justin Hui
+Carlos Avendano
 </td>
 <td> 
-Lucas Kampmann
+Samantha Sgrizzi
 </td>
 </tr>
 <tr>
 <td style="padding-right:200px;">
-Mon 3PM-4PM
+Mon 2PM-3PM
 </td>
-<td>Wed 3PM-4PM
+<td>Wed 4:30PM-5:30PM
 </td>
 </tr>
 </table>
 
 <div style="font-size:18pt;margin-top:50px;">
-Arnold Building M1-A403 (Justin), Thomas Building Double Helix Cafe (Lucas)
+Thomas Building Double Helix Cafe (Carlos), Weintraub Building Atrium Level 1 (Sam)
 
 Zoom (see Slack for link)
 </div>
@@ -123,7 +123,7 @@ Maggie Russell
 Matthew Chan
 </td>
 <td>
-Dominik Otto (Setty Lab)
+Dominik Otto
 </td>
 <td>
 Rasi Subramaniam
@@ -188,7 +188,7 @@ By the end of the course, you should be able to:
 
 You will find syllabus, lectures, homeworks
 
-https://github.com/fredhutch/tfcb_2024
+https://github.com/fredhutch/tfcb_2025
 
 **Repo is updated just before lectures, make sure to ‘*pull*’ changes**
 
@@ -197,7 +197,7 @@ https://github.com/fredhutch/tfcb_2024
 ## Homeworks
 
 Submit through <a href="http://canvas.uw.edu/">Canvas</a>   
-MCB 536 A Au 24
+MCB 536 A Au 25
 Tools For Computational Biology
 
 <p>
