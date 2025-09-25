@@ -68,7 +68,9 @@ Once you have installed the requisite software, then you should be able to perfo
 
 1) Kernel Detection and Selection:
     * If Jupyter doesn't automatically detect a kernel for the test code:
-    * Click on the **kernel** label, located on the top right corner of your Jupyter notebook interface in VSCode. Choose **Select Another Kernel** followed by **Python Environments**. A list of available Python kernels will appear. Select the appropriate one for testing your code.
+    * Click on the **kernel** label, located on the top right corner of your Jupyter notebook interface in VSCode.
+    * For Python, choose **Select Another Kernel** followed by **Python Environments**. A list of available Python kernels will appear. Select the one labeled as `base` pointing to `/opt/conda/bin/python`.
+    * For R, choose **Select Another Kernel** followed by **Jupyter Kernel**. A list of available kernels will appear. Select the one labeled as `R (base)` pointing to `/opt/conda/envs/tidy/lib/R/bin/R`.
 
 ### R
 In VSCode, R is executed through Jupyter. If R is functioning as expected, you can skip the following details. For a comprehensive guide on R in VSCode, refer to the official documentation: https://code.visualstudio.com/docs/languages/r  
