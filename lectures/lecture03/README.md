@@ -128,9 +128,9 @@ sample3 SRR21277965  104p6      dicodon_facs_on_low_2
 <div style="font-size: 60%; text-align: left; margin-top: 50px;">
 
 Example GitHub repositories: <br>
-https://github.com/rasilab/ribosome_collisions_yeast (public) <br>
+https://github.com/rasilab/nugent_2024 (public) <br>
 https://github.com/rasilab/bottorff_2022 (public) <br>
-https://github.com/rasilab/micropeptide_immunity (private)
+https://github.com/rasilab/mito_relic (private)
 
 </div>
 
@@ -239,7 +239,6 @@ tutorial for an `R`-centric overview of tidy data.
 
 ## Tidy data examples
 
-
 <div style="text-align: left; margin-top: 50px;">
 
 * Examples from [Park & Subramaniam 2019](https://github.com/rasilab/ribosome_collisions_yeast): [data](https://github.com/rasilab/ribosome_collisions_yeast/blob/master/data/western/quantification.tsv), [annotations](https://github.com/rasilab/ribosome_collisions_yeast/blob/master/data/flow/10xaag_wt/annotations.tsv)
@@ -261,14 +260,9 @@ Saving data as plain text files is necessarily to process this data with either 
 
 ---
 
-## Exercise on tidy data
-
-Split into small groups of 3-4 people to work from an HI (haemagglutination-inhibition) table and convert to tidy data. Data available as an [Excel table in the course repo](tables/influenza-titer-data.xlsx).
-
----
-
 ## Further reading
 
+* [GitHub enables collaborative and reproducible laboratory research](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003029)
 
 * [Good enough practices for scientific computing](https://swcarpentry.github.io/good-enough-practices-in-scientific-computing/)
 
@@ -277,3 +271,9 @@ Split into small groups of 3-4 people to work from an HI (haemagglutination-inhi
 * [Reproducibility standards for machine learning in the life sciences](https://pubmed.ncbi.nlm.nih.gov/34462593/)
 
 * [`R`-centric overview of tidy data](https://r4ds.had.co.nz/tidy-data.html)
+
+---
+
+## Exercise on tidy data
+
+Split into small groups of 3-4 people to work from an HI (haemagglutination-inhibition) table and convert to tidy data. Data available as an [Excel table in the course repo](tables/influenza-titer-data.xlsx).
