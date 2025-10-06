@@ -4,8 +4,8 @@ Before you get started, type
 
     pwd
 
-and make sure that the output ends with `tfcb_2023/lectures/lecture04`.
-If not, go back to [the tutorial instructions](https://github.com/FredHutch/tfcb_2021/tree/main/lectures/lecture03#tutorial).
+and make sure that the output ends with `tfcb_2025/lectures/lecture04`.
+If not, go back to [the tutorial instructions]([https://github.com/FredHutch/tfcb_2021/tree/main/lectures/lecture03#tutorial](https://github.com/FredHutch/tfcb_2025/blob/main/software/README.md#testing-software-installation)).
 Don't hesitate to ask questions if you get stuck!
 
 
