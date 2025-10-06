@@ -34,7 +34,7 @@ On my computer the `pwd` command outputs
 
 which shows the list of directories I'm in.
 Such a list of directories (perhaps ending with a file name) is called an _absolute path_.
-Each successive directory is separated from the previous one with a `/`, so I'm in a directory called `directories`, which is contained in a directory called `lecture04`, which is contained in a directory called `lectures`, and so on.
+Each successive directory is separated from the previous one with a `/`, so I'm in a directory called `02-directories`, which is contained in a directory called `lecture04`, which is contained in a directory called `lectures`, and so on.
 As I described before the beginning ("root") directory is called `/`.
 
 Remember how before we learned how to give an argument to the directory-listing command?
@@ -44,6 +44,10 @@ For example, on my computer I could try
     ls /home/melody/tfcb_2024
 
 but on your machine the path components will be different.
+
+If you are using the Docker container via VS Code, I *believe* your absolute path should look like this:
+
+    /workspaces/tfcb_2025/lectures/lecture04/02-directories
 
 ### Tab completion
 
