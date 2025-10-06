@@ -56,7 +56,7 @@ and then
 
 You can see that adding the `grep jpg` filtered the output to only things containing the string `jpg`.
 That's what it does!**
-You can read more about grep using `man`.
+You can read more about grep using `--help`.
 It's incredibly powerful!
 
 * what is an easier way to do this?
