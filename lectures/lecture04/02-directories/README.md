@@ -4,7 +4,7 @@ Before you get started, type
 
     pwd
 
-again and make sure that the output ends with `tfcb_2024/lectures/lecture04`.
+again and make sure that the output ends with `tfcb_2025/lectures/lecture04`.
 
 # Directories
 
