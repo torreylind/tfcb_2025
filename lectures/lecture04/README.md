@@ -44,7 +44,7 @@ This material requires access to a [unix shell](https://fredhutch.github.io/tfcb
 
 ## Reminders
 
-- Homework 2 (command line) will be available [here](https://github.com/FredHutch/tfcb_2025/tree/main/homeworks/homework02) on October th; it may be useful to reference these questions as you work through material in the second class.
+- Homework 2 (command line) will be available [here](https://github.com/FredHutch/tfcb_2025/tree/main/homeworks/homework02) on October 9th; it may be useful to reference these questions as you work through material in the second class.
 
 ## Further references
 
