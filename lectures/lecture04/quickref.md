@@ -1,7 +1,6 @@
 * `pwd`: print working directory (where am i?)
 * `cd`: change directory
 * `ls`: list directory contents
-* `tree`: show a hierarchical directory view
 
 * `echo`: spit a file out onto the terminal
 * `cat`: concatenate (print out a file onto the terminal)
@@ -13,7 +12,6 @@
 * `mv`: move a file (or rename)
 * `rm`: remove a file or directory
 
-* `man`: view online documentation
 * `bash FILE`: run `FILE` as a bash script
 
 * `~`: your home directory
