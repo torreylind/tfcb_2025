@@ -125,19 +125,6 @@ For this sequence file, lines containing header information start with a '\/'. I
     grep 'word' filename
     
 
-## `man`: the built-in manual
-
-For more in depth help see the command `man`, which is short for "manual."
-The argument to `man` is the command you want to see documentation for.
-
-Try
-
-    man man
-
-to learn about the command `man`.
-
-Look at the overall structure of the document. What does the top describe? What about the rest?
-
 
 ## On your own
 
