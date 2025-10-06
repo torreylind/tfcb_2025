@@ -136,7 +136,7 @@ Here we'll be a little specific and say that the software we've been calling `vi
 
 * a [cheat-sheet](http://i.imgur.com/YLInLlY.png)
 * a [wallpaper](https://github.com/LevelbossMike/vim_shortcut_wallpaper)
-* [Ben Crowder's vim tips](http://bencrowder.net/files/vim-fu/)
+* [Ben Crowder's vim tips](https://cdn.bencrowder.net/vim-fu/)
 * The `vimtutor` command, available wherever you find `vim`
 * [An online vim tutorial](http://www.openvim.com/)
 
