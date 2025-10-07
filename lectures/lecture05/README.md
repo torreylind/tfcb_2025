@@ -25,14 +25,10 @@ In the second lecture, We will go over the commands presented in the previous se
 This is an interactive tutorial to teach you about navigating the shell.
 
 To get started,
-[access the unix shell on your computer](https://github.com/FredHutch/tfcb_2022/blob/main/lectures/lecture04/README.md#setup-accessing-a-command-line).
+[access the unix shell on your computer](https://github.com/FredHutch/tfcb_2025/blob/main/lectures/lecture04/quickref.md).
 
 Once you have logged on,
 execute the following commands:
-
-(Optional) If you followed along yesterday for the interactive lecture and named your folder tfcb_2023, you will need to mv your directory since it has the same name as the one we will use today.
-
-    mv tfcb_2024 tfcb_2024_inclass
     
 I think you've already cloned the repo via this command, but if not then use this command to grab the materials we'll work though today:
 
