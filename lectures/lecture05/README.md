@@ -36,11 +36,11 @@ execute the following commands:
     
 I think you've already cloned the repo via this command, but if not then use this command to grab the materials we'll work though today:
 
-    git clone https://github.com/fredhutch/tfcb_2024.git
+    git clone https://github.com/fredhutch/tfcb_2025.git
 
 I've made some changes since class started! Please update your repo:
 
-    cd tfcb_2024
+    cd tfcb_2025
     git pull
 
 
@@ -48,10 +48,13 @@ VERY IMPORTANT! If you have issues here let me know!!
 
 Otherwise
 
-    cd tfcb_2024/lectures/lecture04
+    cd tfcb_2025/lectures/lecture04
 
 
-Now you can start the first lesson by clicking [here](https://fredhutch.github.io/tfcb_2024/lectures/lecture04/01-first-steps).
+Now you can start the first lesson by clicking [here](https://github.com/FredHutch/tfcb_2025/blob/main/lectures/lecture04/01-first-steps.md).
+
 We recommend keeping a browser open with the lesson materials as you work through the exercises on VS Studio or your computer.
-Go to [this page](https://github.com/fredhutch/tfcb_2024/tree/master/lectures/lecture04) to see the complete list of files for this lecture.
-The [`quickref.md` file](https://fredhutch.github.io/tfcb_2024/lectures/lecture04/quickref) is a short-as-possible quick reference sheet with basic commands.
+
+Go to [this page](https://github.com/fredhutch/tfcb_2025/tree/master/lectures/lecture04) to see the complete list of files for this lecture.
+
+The [`quickref.md` file](https://github.com/FredHutch/tfcb_2025/blob/main/lectures/lecture04/quickref.md) is a short-as-possible quick reference sheet with basic commands.
