@@ -8,7 +8,7 @@ This homework will assess your ability to use GitHub, organize projects, and app
 
 Make a GitHub account and populate your bio by including your research interests, place of work, location, professional webpage (or science-focused twitter account!). Here's an example [github.com/trvrb](https://github.com/trvrb/).
 
-[_Include the link to your GitHub profile here._](https://github.com/torreylind)
+(https://github.com/torreylind)
 
 ## Problem 2
 
@@ -44,7 +44,7 @@ The first time you try doing this, you will get an error asking you to configure
 Use the URL of the GitHub repository you created above to configure the Remote.
 Now you should be able to push any further changes to your repository.
 
-_Include the link to your `tfcb-homework01` GitHub repository here._
+(https://github.com/torreylind/tfcb-homework01)
 
 ## Problem 4
 
