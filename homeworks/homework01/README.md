@@ -54,7 +54,7 @@ This question assesses your ability to organize files and directories associated
 
 Organize files into a more consistent structure. Group images into a `images/` directory. Separate source code and data. Rename files to remove spaces and improve consistency. Commit changes and publish to your public GitHub repository.
 
-[_Include the link to your `tfcb-homework01` GitHub repository here._](https://github.com/torreylind/tfcb-homework01)
+(https://github.com/torreylind/tfcb-homework01)
 
 ## Problem 5
 
@@ -66,7 +66,7 @@ Create a file called `README.md` and populate with Markdown. Demonstrate headers
 
 Commit this file and publish to your public GitHub repository.
 
-_Include the link to your `README.md` here._
+(https://github.com/torreylind/tfcb-homework01#)
 
 ## Problem 6
 
