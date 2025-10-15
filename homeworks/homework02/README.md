@@ -11,7 +11,7 @@ Replace the lines specified in _italics_ with your answers and save as a text fi
 
 Complete the interactive tutorial.
 
-_Did you hit any points of frustration, and if so, how could we improve the material to avoid that frustration?_
+Overall, some sections are dense and don't explain the rational/logic behind **why** we are performing these commands. Wish there was a more applicable example to something we might encounter while doing biology. It jumps between experimenting and reading documentation without an explicit goal. Could provide mini-checkpoints, e.g., “Count the number of lines in sequence.gb using wc and record your answer.” Also, if there was a simple cheat-sheet (i.e all the commands and their function) or table of "common errors/issues" that would be very helpful since I found I would run into errors with my terminal occationally. As someone with very little coding experience, I just found this exersize hard to digest and wish it was shorter/more straight forward.
 
 
 ## Problem 1
