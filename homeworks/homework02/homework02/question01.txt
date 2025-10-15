@@ -1,0 +1,10 @@
+My username is root
+
+My home directory is /root
+
+The contents of the tfcb_2023/lectures/lecture04 directory are
+
+01-first-steps.md
+02-directories
+03-redirection
+README.md
