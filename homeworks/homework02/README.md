@@ -51,6 +51,8 @@ quickref.md<br>
 sequence.gb<br>
 slides<br>
 vader.txt<br>
+___
+#!/bin/bash
 
 USER_NAME=$(whoami)
 HOME_DIR=$HOME
@@ -96,6 +98,31 @@ the ### should be the numbers from a list you can find here:
 tfcb_2023/homeworks/homework02/list.txt
 
 You can make the contents of those files whatever you want (hint: slide 9... )
+___
+#!/bin/bash
+
+# Directory to store generated files
+TARGET_DIR="homework02/question02"
+
+# Ensure the directory exists
+mkdir -p "$TARGET_DIR"
+
+# Path to the list of numbers
+LIST_FILE="list.txt"
+
+# Check if the list file exists
+if [ ! -f "$LIST_FILE" ]; then
+    echo "List file not found: $LIST_FILE"
+    exit 1
+fi
+
+# Loop through each number in list.txt and create a file
+while read -r number; do
+    filename="file${number}.txt"
+    echo "This is file number $number" > "$TARGET_DIR/$filename"
+done < "$LIST_FILE"
+
+echo "Created files in $TARGET_DIR/"
 
 _Paste your SCRIPT here (not the output)_
 
