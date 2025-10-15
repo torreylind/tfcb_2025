@@ -52,7 +52,29 @@ sequence.gb<br>
 slides<br>
 vader.txt<br>
 
-_Paste your SCRIPT here (not the output)_
+USER_NAME=$(whoami)
+HOME_DIR=$HOME
+OUTPUT_FILE="question01.txt"
+TARGET_DIR="tfcb_2023/lectures/lecture04"
+
+{
+  echo "My username is $USER_NAME"
+  echo
+  echo "My home directory is $HOME_DIR"
+  echo
+  echo "The contents of the $TARGET_DIR directory are"
+  echo
+  if [ -d "$TARGET_DIR" ]; then
+    ls -1 "$TARGET_DIR"
+  else
+    echo "Directory not found: $TARGET_DIR"
+  fi
+} > "$OUTPUT_FILE"
+
+mkdir -p homework02
+mv "$OUTPUT_FILE" homework02/
+
+echo "Wrote homework02/$OUTPUT_FILE"
 
 
 ## Problem 2
